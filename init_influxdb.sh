@@ -1,0 +1,1 @@
+curl -i -X POST "http://localhost:8086/query" -d "q=create database matias_cicchitti"

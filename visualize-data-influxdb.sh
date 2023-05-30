@@ -1,0 +1,1 @@
+curl -i -X POST "http://localhost:8086/query?db=matias_cicchitti" -d "q=select * from clima"

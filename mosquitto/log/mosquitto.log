@@ -1,0 +1,285 @@
+1685190293: mosquitto version 2.0.15 starting
+1685190293: Config loaded from /mosquitto/config/mosquitto.conf.
+1685190293: Opening ipv4 listen socket on port 1883.
+1685190293: mosquitto version 2.0.15 running
+1685190331: New connection from 127.0.0.1:43296 on port 1883.
+1685190331: New client connected from 127.0.0.1:43296 as auto-44C26A91-1FB6-5530-6CD5-FAD8F0DCB336 (p2, c1, k60).
+1685190331: Client auto-44C26A91-1FB6-5530-6CD5-FAD8F0DCB336 disconnected.
+1685190717: New connection from 127.0.0.1:43310 on port 1883.
+1685190717: New client connected from 127.0.0.1:43310 as auto-8D2B105D-356D-3A15-2F2F-66E8E63D69D8 (p2, c1, k60).
+1685190717: Client auto-8D2B105D-356D-3A15-2F2F-66E8E63D69D8 disconnected.
+1685190843: mosquitto version 2.0.15 terminating
+1685190843: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685190858: mosquitto version 2.0.15 starting
+1685190858: Config loaded from /mosquitto/config/mosquitto.conf.
+1685190858: Opening ipv4 listen socket on port 1883.
+1685190858: mosquitto version 2.0.15 running
+1685190860: New connection from 172.20.0.5:44106 on port 1883.
+1685190860: New client connected from 172.20.0.5:44106 as Telegraf-Consumer-4hIky (p2, c1, k60).
+1685190903: New connection from 127.0.0.1:43322 on port 1883.
+1685190903: New client connected from 127.0.0.1:43322 as auto-F243B3BA-80D9-9D6B-B852-1E9BED3B8BC5 (p2, c1, k60).
+1685190903: Client auto-F243B3BA-80D9-9D6B-B852-1E9BED3B8BC5 disconnected.
+1685191147: New connection from 127.0.0.1:43328 on port 1883.
+1685191147: New client connected from 127.0.0.1:43328 as auto-AD64AE9B-09B8-E0FE-A7FF-8336CFD62091 (p2, c1, k60).
+1685191154: New connection from 127.0.0.1:43330 on port 1883.
+1685191154: New client connected from 127.0.0.1:43330 as auto-E9D18D89-3451-4044-5FD9-DC97497335B4 (p2, c1, k60).
+1685191154: Client auto-E9D18D89-3451-4044-5FD9-DC97497335B4 disconnected.
+1685191195: New connection from 127.0.0.1:43332 on port 1883.
+1685191195: New client connected from 127.0.0.1:43332 as auto-6C23A2EF-92DA-2B1C-0DA7-CA50E96D0B64 (p2, c1, k60).
+1685191195: Client auto-6C23A2EF-92DA-2B1C-0DA7-CA50E96D0B64 disconnected.
+1685191347: New connection from 127.0.0.1:43346 on port 1883.
+1685191347: New client connected from 127.0.0.1:43346 as auto-0F428D6C-853C-F827-BEF5-DAB6011CAC48 (p2, c1, k60).
+1685191347: Client auto-0F428D6C-853C-F827-BEF5-DAB6011CAC48 disconnected.
+1685192085: Client Telegraf-Consumer-4hIky disconnected.
+1685192086: mosquitto version 2.0.15 terminating
+1685192086: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685284452: mosquitto version 2.0.15 starting
+1685284452: Config loaded from /mosquitto/config/mosquitto.conf.
+1685284452: Opening ipv4 listen socket on port 1883.
+1685284452: mosquitto version 2.0.15 running
+1685284454: New connection from 172.18.0.6:55196 on port 1883.
+1685284454: New client connected from 172.18.0.6:55196 as Telegraf-Consumer-pFcqA (p2, c1, k60).
+1685285860: Client Telegraf-Consumer-pFcqA disconnected.
+1685297232: mosquitto version 2.0.15 starting
+1685297232: Config loaded from /mosquitto/config/mosquitto.conf.
+1685297232: Opening ipv4 listen socket on port 1883.
+1685297232: mosquitto version 2.0.15 running
+1685297622: mosquitto version 2.0.15 terminating
+1685297622: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685297685: mosquitto version 2.0.15 starting
+1685297685: Config loaded from /mosquitto/config/mosquitto.conf.
+1685297685: Opening ipv4 listen socket on port 1883.
+1685297685: mosquitto version 2.0.15 running
+1685297687: New connection from 172.20.0.7:42638 on port 1883.
+1685297687: New client connected from 172.20.0.7:42638 as Telegraf-Consumer-5Pgoj (p2, c1, k60).
+1685297938: Client Telegraf-Consumer-5Pgoj disconnected.
+1685297939: mosquitto version 2.0.15 terminating
+1685297939: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685298007: mosquitto version 2.0.15 starting
+1685298007: Config loaded from /mosquitto/config/mosquitto.conf.
+1685298007: Opening ipv4 listen socket on port 1883.
+1685298007: mosquitto version 2.0.15 running
+1685298009: New connection from 172.21.0.7:52902 on port 1883.
+1685298009: New client connected from 172.21.0.7:52902 as Telegraf-Consumer-2CDHX (p2, c1, k60).
+1685298811: Client Telegraf-Consumer-2CDHX disconnected.
+1685298812: mosquitto version 2.0.15 terminating
+1685298812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685299020: mosquitto version 2.0.15 starting
+1685299020: Config loaded from /mosquitto/config/mosquitto.conf.
+1685299020: Opening ipv4 listen socket on port 1883.
+1685299020: mosquitto version 2.0.15 running
+1685299023: New connection from 172.22.0.7:57512 on port 1883.
+1685299023: New client connected from 172.22.0.7:57512 as Telegraf-Consumer-YvhRY (p2, c1, k60).
+1685300821: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685302622: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685304422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685306224: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685308025: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685309825: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685309846: Client Telegraf-Consumer-YvhRY disconnected.
+1685309847: mosquitto version 2.0.15 terminating
+1685309847: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685314852: mosquitto version 2.0.15 starting
+1685314852: Config loaded from /mosquitto/config/mosquitto.conf.
+1685314852: Opening ipv4 listen socket on port 1883.
+1685314852: mosquitto version 2.0.15 running
+1685314854: New connection from 172.23.0.7:47690 on port 1883.
+1685314854: New client connected from 172.23.0.7:47690 as Telegraf-Consumer-ZOFke (p2, c1, k60).
+1685314896: Client Telegraf-Consumer-ZOFke disconnected.
+1685314897: mosquitto version 2.0.15 terminating
+1685314897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685314924: mosquitto version 2.0.15 starting
+1685314924: Config loaded from /mosquitto/config/mosquitto.conf.
+1685314924: Opening ipv4 listen socket on port 1883.
+1685314924: mosquitto version 2.0.15 running
+1685314926: New connection from 172.24.0.7:42532 on port 1883.
+1685314926: New client connected from 172.24.0.7:42532 as Telegraf-Consumer-jl9Qs (p2, c1, k60).
+1685316146: Client Telegraf-Consumer-jl9Qs disconnected.
+1685316146: mosquitto version 2.0.15 terminating
+1685316146: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685316439: mosquitto version 2.0.15 starting
+1685316439: Config loaded from /mosquitto/config/mosquitto.conf.
+1685316439: Opening ipv4 listen socket on port 1883.
+1685316439: mosquitto version 2.0.15 running
+1685316441: New connection from 172.24.0.7:56616 on port 1883.
+1685316441: New client connected from 172.24.0.7:56616 as Telegraf-Consumer-HFrVU (p2, c1, k60).
+1685316563: Client Telegraf-Consumer-HFrVU disconnected.
+1685316575: mosquitto version 2.0.15 terminating
+1685316575: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685316616: mosquitto version 2.0.15 starting
+1685316616: Config loaded from /mosquitto/config/mosquitto.conf.
+1685316616: Opening ipv4 listen socket on port 1883.
+1685316616: mosquitto version 2.0.15 running
+1685316618: New connection from 172.25.0.7:44156 on port 1883.
+1685316618: New client connected from 172.25.0.7:44156 as Telegraf-Consumer-WT5ro (p2, c1, k60).
+1685316897: Client Telegraf-Consumer-WT5ro disconnected.
+1685316897: mosquitto version 2.0.15 terminating
+1685316897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685316929: mosquitto version 2.0.15 starting
+1685316929: Config loaded from /mosquitto/config/mosquitto.conf.
+1685316929: Opening ipv4 listen socket on port 1883.
+1685316929: mosquitto version 2.0.15 running
+1685316931: New connection from 172.26.0.6:39104 on port 1883.
+1685316931: New client connected from 172.26.0.6:39104 as Telegraf-Consumer-9juvJ (p2, c1, k60).
+1685318730: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685320410: Client Telegraf-Consumer-9juvJ disconnected.
+1685320410: mosquitto version 2.0.15 terminating
+1685320410: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685321576: mosquitto version 2.0.15 starting
+1685321576: Config loaded from /mosquitto/config/mosquitto.conf.
+1685321576: Opening ipv4 listen socket on port 1883.
+1685321576: mosquitto version 2.0.15 running
+1685321578: New connection from 172.27.0.7:34962 on port 1883.
+1685321578: New client connected from 172.27.0.7:34962 as Telegraf-Consumer-UKcth (p2, c1, k60).
+1685322285: Client Telegraf-Consumer-UKcth disconnected.
+1685322286: mosquitto version 2.0.15 terminating
+1685322286: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685322330: mosquitto version 2.0.15 starting
+1685322330: Config loaded from /mosquitto/config/mosquitto.conf.
+1685322330: Opening ipv4 listen socket on port 1883.
+1685322330: mosquitto version 2.0.15 running
+1685322332: New connection from 172.28.0.7:40844 on port 1883.
+1685322332: New client connected from 172.28.0.7:40844 as Telegraf-Consumer-WF1WS (p2, c1, k60).
+1685322412: Client Telegraf-Consumer-WF1WS disconnected.
+1685322413: mosquitto version 2.0.15 terminating
+1685322413: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685322546: mosquitto version 2.0.15 starting
+1685322546: Config loaded from /mosquitto/config/mosquitto.conf.
+1685322546: Opening ipv4 listen socket on port 1883.
+1685322546: mosquitto version 2.0.15 running
+1685322549: New connection from 172.29.0.7:48240 on port 1883.
+1685322549: New client connected from 172.29.0.7:48240 as Telegraf-Consumer-UreLn (p2, c1, k60).
+1685324346: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685324885: Client Telegraf-Consumer-UreLn disconnected.
+1685324886: mosquitto version 2.0.15 terminating
+1685324886: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685325114: mosquitto version 2.0.15 starting
+1685325114: Config loaded from /mosquitto/config/mosquitto.conf.
+1685325114: Opening ipv4 listen socket on port 1883.
+1685325114: mosquitto version 2.0.15 running
+1685325116: New connection from 172.31.0.7:46096 on port 1883.
+1685325116: New client connected from 172.31.0.7:46096 as Telegraf-Consumer-wtOt4 (p2, c1, k60).
+1685326448: Client Telegraf-Consumer-wtOt4 disconnected.
+1685326449: mosquitto version 2.0.15 terminating
+1685326449: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685404639: mosquitto version 2.0.15 starting
+1685404639: Config loaded from /mosquitto/config/mosquitto.conf.
+1685404639: Opening ipv4 listen socket on port 1883.
+1685404639: mosquitto version 2.0.15 running
+1685404701: mosquitto version 2.0.15 terminating
+1685404701: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685406749: mosquitto version 2.0.15 starting
+1685406749: Config loaded from /mosquitto/config/mosquitto.conf.
+1685406749: Opening ipv4 listen socket on port 1883.
+1685406749: mosquitto version 2.0.15 running
+1685406974: mosquitto version 2.0.15 terminating
+1685406974: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685407051: mosquitto version 2.0.15 starting
+1685407051: Config loaded from /mosquitto/config/mosquitto.conf.
+1685407051: Opening ipv4 listen socket on port 1883.
+1685407051: mosquitto version 2.0.15 running
+1685407083: mosquitto version 2.0.15 terminating
+1685407083: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685407489: mosquitto version 2.0.15 starting
+1685407489: Config loaded from /mosquitto/config/mosquitto.conf.
+1685407489: Opening ipv4 listen socket on port 1883.
+1685407489: mosquitto version 2.0.15 running
+1685407490: New connection from 172.21.0.7:40494 on port 1883.
+1685407490: New client connected from 172.21.0.7:40494 as Telegraf-Consumer-bn34m (p2, c1, k60).
+1685407707: New connection from 127.0.0.1:35144 on port 1883.
+1685407707: New client connected from 127.0.0.1:35144 as auto-E1BAA06E-C778-BD52-E395-D8E1A235CFE4 (p2, c1, k60).
+1685407707: Client auto-E1BAA06E-C778-BD52-E395-D8E1A235CFE4 disconnected.
+1685407724: New connection from 127.0.0.1:35146 on port 1883.
+1685407724: New client connected from 127.0.0.1:35146 as auto-650F89E1-A89C-CFE9-2B9E-20E732C694A4 (p2, c1, k60).
+1685407724: Client auto-650F89E1-A89C-CFE9-2B9E-20E732C694A4 disconnected.
+1685407735: New connection from 127.0.0.1:35148 on port 1883.
+1685407735: New client connected from 127.0.0.1:35148 as auto-23137388-93BD-1EE3-8326-BF89F196814F (p2, c1, k60).
+1685407735: Client auto-23137388-93BD-1EE3-8326-BF89F196814F disconnected.
+1685407795: New connection from 127.0.0.1:35150 on port 1883.
+1685407795: New client connected from 127.0.0.1:35150 as auto-53D2CD97-FA07-49D7-C338-63D947CC91EF (p2, c1, k60).
+1685407795: Client auto-53D2CD97-FA07-49D7-C338-63D947CC91EF disconnected.
+1685407818: New connection from 127.0.0.1:35152 on port 1883.
+1685407818: New client connected from 127.0.0.1:35152 as auto-83F6C28F-1472-9B6C-00D7-5BC4C56DDB70 (p2, c1, k60).
+1685407818: Client auto-83F6C28F-1472-9B6C-00D7-5BC4C56DDB70 disconnected.
+1685407833: New connection from 127.0.0.1:35154 on port 1883.
+1685407833: New client connected from 127.0.0.1:35154 as auto-623718E5-3956-9146-AE93-BC8D218E83CE (p2, c1, k60).
+1685407833: Client auto-623718E5-3956-9146-AE93-BC8D218E83CE disconnected.
+1685407878: New connection from 127.0.0.1:35156 on port 1883.
+1685407878: New client connected from 127.0.0.1:35156 as auto-2CB75526-2C81-7289-3FFA-2A7637EEE6D2 (p2, c1, k60).
+1685407878: Client auto-2CB75526-2C81-7289-3FFA-2A7637EEE6D2 disconnected.
+1685407914: New connection from 127.0.0.1:35158 on port 1883.
+1685407914: New client connected from 127.0.0.1:35158 as auto-A13A66A9-8100-1A28-B37D-E606879FF6A0 (p2, c1, k60).
+1685407914: Client auto-A13A66A9-8100-1A28-B37D-E606879FF6A0 disconnected.
+1685408115: New connection from 127.0.0.1:35176 on port 1883.
+1685408115: New client connected from 127.0.0.1:35176 as auto-450D204C-7D93-5EAD-DFEF-1CF790579882 (p2, c1, k60).
+1685408115: Client auto-450D204C-7D93-5EAD-DFEF-1CF790579882 disconnected.
+1685408222: Client Telegraf-Consumer-bn34m disconnected.
+1685408222: mosquitto version 2.0.15 terminating
+1685408222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685408558: mosquitto version 2.0.15 starting
+1685408558: Config loaded from /mosquitto/config/mosquitto.conf.
+1685408558: Opening ipv4 listen socket on port 1883.
+1685408558: mosquitto version 2.0.15 running
+1685408561: New connection from 172.22.0.7:39808 on port 1883.
+1685408561: New client connected from 172.22.0.7:39808 as Telegraf-Consumer-aJYX5 (p2, c1, k60).
+1685408645: New connection from 127.0.0.1:35196 on port 1883.
+1685408645: New client connected from 127.0.0.1:35196 as auto-4A627A75-E83F-FF7D-98D8-520148631C63 (p2, c1, k60).
+1685408645: Client auto-4A627A75-E83F-FF7D-98D8-520148631C63 disconnected.
+1685408717: Client Telegraf-Consumer-aJYX5 disconnected.
+1685408718: mosquitto version 2.0.15 terminating
+1685408718: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685408787: mosquitto version 2.0.15 starting
+1685408787: Config loaded from /mosquitto/config/mosquitto.conf.
+1685408787: Opening ipv4 listen socket on port 1883.
+1685408787: mosquitto version 2.0.15 running
+1685408789: New connection from 172.23.0.7:50368 on port 1883.
+1685408789: New client connected from 172.23.0.7:50368 as Telegraf-Consumer-VOHi8 (p2, c1, k60).
+1685408824: New connection from 127.0.0.1:35214 on port 1883.
+1685408824: New client connected from 127.0.0.1:35214 as auto-3A4F81FC-3CCB-5D01-BA8B-0E126F286EA6 (p2, c1, k60).
+1685408824: Client auto-3A4F81FC-3CCB-5D01-BA8B-0E126F286EA6 disconnected.
+1685409206: Client Telegraf-Consumer-VOHi8 disconnected.
+1685409207: mosquitto version 2.0.15 terminating
+1685409207: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685409246: mosquitto version 2.0.15 starting
+1685409246: Config loaded from /mosquitto/config/mosquitto.conf.
+1685409246: Opening ipv4 listen socket on port 1883.
+1685409246: mosquitto version 2.0.15 running
+1685409250: New connection from 172.24.0.7:33354 on port 1883.
+1685409250: New client connected from 172.24.0.7:33354 as Telegraf-Consumer-Vt9f6 (p2, c1, k60).
+1685409929: New connection from 127.0.0.1:35266 on port 1883.
+1685409929: New client connected from 127.0.0.1:35266 as auto-37A248F1-4DAF-51D5-620C-51839FC2E1CF (p2, c1, k60).
+1685409929: Client auto-37A248F1-4DAF-51D5-620C-51839FC2E1CF disconnected.
+1685410016: Client Telegraf-Consumer-Vt9f6 disconnected.
+1685410025: mosquitto version 2.0.15 terminating
+1685410025: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1685410118: mosquitto version 2.0.15 starting
+1685410118: Config loaded from /mosquitto/config/mosquitto.conf.
+1685410118: Opening ipv4 listen socket on port 1883.
+1685410118: mosquitto version 2.0.15 running
+1685410119: New connection from 172.25.0.7:37468 on port 1883.
+1685410119: New client connected from 172.25.0.7:37468 as Telegraf-Consumer-p2vG4 (p2, c1, k60).
+1685410223: New connection from 127.0.0.1:35304 on port 1883.
+1685410223: New client connected from 127.0.0.1:35304 as auto-22E75812-C163-80FE-9D26-D6E5335C99F9 (p2, c1, k60).
+1685410223: Client auto-22E75812-C163-80FE-9D26-D6E5335C99F9 disconnected.
+1685410248: New connection from 127.0.0.1:35316 on port 1883.
+1685410248: New client connected from 127.0.0.1:35316 as auto-4BC6DE0A-1D35-F136-EF63-A51FFE822C03 (p2, c1, k60).
+1685410248: Client auto-4BC6DE0A-1D35-F136-EF63-A51FFE822C03 disconnected.
+1685410267: New connection from 127.0.0.1:35322 on port 1883.
+1685410267: New client connected from 127.0.0.1:35322 as auto-D7AF1717-4876-1AEA-7D80-90742519D06B (p2, c1, k60).
+1685410267: Client auto-D7AF1717-4876-1AEA-7D80-90742519D06B disconnected.
+1685411360: New connection from 172.25.0.1:35352 on port 1883.
+1685411360: New client connected from 172.25.0.1:35352 as auto-E8666505-5F58-8322-B3D2-14E5F9FE4447 (p2, c1, k60).
+1685411360: Client auto-E8666505-5F58-8322-B3D2-14E5F9FE4447 disconnected.
+1685411370: New connection from 172.25.0.1:35360 on port 1883.
+1685411370: New client connected from 172.25.0.1:35360 as auto-F0B202A1-6A6D-ACB4-9585-DAE708F9C31E (p2, c1, k60).
+1685411370: Client auto-F0B202A1-6A6D-ACB4-9585-DAE708F9C31E disconnected.
+1685411380: New connection from 172.25.0.1:35368 on port 1883.
+1685411380: New client connected from 172.25.0.1:35368 as auto-35FE061B-3C21-E28A-8A99-6070E976F492 (p2, c1, k60).
+1685411380: Client auto-35FE061B-3C21-E28A-8A99-6070E976F492 disconnected.
+1685411390: New connection from 172.25.0.1:35376 on port 1883.
+1685411390: New client connected from 172.25.0.1:35376 as auto-693689DC-CAB6-99D9-90A1-401DF28A4F22 (p2, c1, k60).
+1685411390: Client auto-693689DC-CAB6-99D9-90A1-401DF28A4F22 disconnected.
+1685411448: New connection from 172.25.0.1:35380 on port 1883.
+1685411448: New client connected from 172.25.0.1:35380 as auto-31E3A4C1-6A3B-C0BB-5A24-6A6AFC55F7D3 (p2, c1, k60).
+1685411448: Client auto-31E3A4C1-6A3B-C0BB-5A24-6A6AFC55F7D3 disconnected.
+1685411697: Client Telegraf-Consumer-p2vG4 disconnected.
